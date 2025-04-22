@@ -13,9 +13,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/sevdeaydinv](https://github.com/sevdeaydinv)
 
 - 📫 How to reach me **sevdeaydin513@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/sevdeaydinv/cv/blob/main/cv.pdf](https://github.com/sevdeaydinv/cv/blob/main/cv.pdf)
-
 - ⚡ Fun fact **I enjoy learning new things and growing with every project.**
 
 <h3 align="left">Connect with me:</h3>
