@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sevde Sıla Aydın</h1>
-<h3 align="center">Frontend-leaning Information Systems and Technologies student | React & JavaScript enthusiast</h3>
+
 
 
 - 🔭 I’m currently working on **I’m currently working on improving my frontend development skills using React and JavaScript.**
